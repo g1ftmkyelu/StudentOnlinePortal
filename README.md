@@ -58,11 +58,11 @@ Describe your project
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
+- [Exressjs](https://expressjs.com/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Mongoose](https://mongoosejs.com/)
 
 ## :white_check_mark: Requirements ##
 
