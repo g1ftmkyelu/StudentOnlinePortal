@@ -37,7 +37,7 @@ class AdminController extends Controller{
 			return res.status(500).json({result:true, message:'failed to edit the admin'})
 			return res.status(200).json({result:true, message:'admin edited successfully'})
 		} catch (error) {
-			next(error)
+			return res.status(500).json({result:true, message:'failed to edit the admin'})
 		}
 	}
 
